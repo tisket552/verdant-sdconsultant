@@ -1,0 +1,6 @@
+<svg width="300" height="150" viewBox="0 0 300 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M75 30 L120 30 L165 75 L120 120 L75 120 L120 75 L75 30" fill="#FF4B26"/>
+  <path d="M135 30 L180 30 L225 75 L180 120 L135 120 L180 75 L135 30" fill="#00B6D6"/>
+  <text x="60" y="140" font-family="Arial" font-size="18" fill="#333333">SDコンサル株式会社</text>
+  <text x="100" y="155" font-family="Arial" font-size="12" fill="#666666">一級建築士事務所</text>
+</svg>
