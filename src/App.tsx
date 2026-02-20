@@ -117,7 +117,7 @@ function App() {
                   </tr>
                   <tr>
                     <th className="py-4 px-6 bg-gray-50 text-left">取引銀行</th>
-                    <td className="py-4 px-6">みずほ銀行　みなと銀行　但陽信用金庫</td>
+                    <td className="py-4 px-6">みずほ銀行　みなと銀行　但陽信用金庫　淡陽信用組合</td>
                   </tr>
                 </tbody>
               </table>
