@@ -62,7 +62,7 @@ function App() {
                   </tr>
                   <tr className="border-b">
                     <th className="py-4 px-6 bg-gray-50 text-left">住所</th>
-                    <td className="py-4 px-6">兵庫県姫路市福沢町１３７－５０５</td>
+                    <td className="py-4 px-6">〒670-0992 兵庫県姫路市福沢町１３７－５０５</td>
                   </tr>
                   <tr className="border-b">
                     <th className="py-4 px-6 bg-gray-50 text-left">メールアドレス</th>
