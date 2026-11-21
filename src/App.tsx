@@ -252,7 +252,7 @@ function App() {
             </div>
             <div className="text-center md:text-right">
               <p className="text-gray-400">
-                Copyright © SDコンサル株式会社. All rights reserved.
+                Copyright © SDコンサル株式会社 2024-2026. All rights reserved.
               </p>
             </div>
           </div>
