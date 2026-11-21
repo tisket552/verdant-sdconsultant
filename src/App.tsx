@@ -64,8 +64,8 @@ function App() {
                     <th className="py-4 px-6 bg-gray-50 text-left">住所</th>
                     <td className="py-4 px-6">
                       <ul className="list-none">
-                        <li>【本店】〒670-0992 兵庫県姫路市福沢町137-505</li>
-                        <li>【東京支店】〒112-0015 東京都文京区目白台三丁目16番2号デュエロ目白台101号</li>
+                        <li>【本　　店】 〒670-0992 兵庫県姫路市福沢町137-505</li>
+                        <li>【東京支店】 〒112-0015 東京都文京区目白台三丁目16番2号デュエロ目白台101号</li>
                       </ul>
                     </td>
                   </tr>
@@ -224,8 +224,10 @@ function App() {
                     ['雲仙太陽光発電林地開発及びコンサルティング', '長崎県雲仙市'],
                     ['岡山県建部町太陽光発電測量設計及びコンサルティング', '岡山県岡山市'],
                     ['三田市太陽光発電測量設計及びコンサルティング', '兵庫県三田市'],
-                    ['系統用蓄電池プロジェクトの建設地の戦略的評価および選定（BESS Project Origination）', '西日本全域'],
-                  ].map((item, index) => (
+                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '京都府京丹後市'],
+                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '兵庫県神崎郡市川町'],
+                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '奈良県香芝市'], 
+                        ].map((item, index) => (
                     <tr key={index} className="border-b hover:bg-gray-50">
                       <td className="py-4 px-6">{item[0]}</td>
                       <td className="py-4 px-6">{item[1]}</td>
