@@ -224,9 +224,9 @@ function App() {
                     ['雲仙太陽光発電林地開発及びコンサルティング', '長崎県雲仙市'],
                     ['岡山県建部町太陽光発電測量設計及びコンサルティング', '岡山県岡山市'],
                     ['三田市太陽光発電測量設計及びコンサルティング', '兵庫県三田市'],
-                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '京都府京丹後市'],
-                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '兵庫県神崎郡市川町'],
-                    ['系統用蓄電池プロジェクトの建設用地の戦略的評価および選定（BESS Project Origination）', '奈良県香芝市'], 
+                    ['系統用蓄電池プロジェクトの用地選定および戦略的評価（BESS Project Origination）', '京都府京丹後市'],
+                    ['系統用蓄電池プロジェクトの用地選定および戦略的評価（BESS Project Origination）', '兵庫県神崎郡市川町'],
+                    ['系統用蓄電池プロジェクトの用地選定および戦略的評価（BESS Project Origination）', '奈良県香芝市'], 
                         ].map((item, index) => (
                     <tr key={index} className="border-b hover:bg-gray-50">
                       <td className="py-4 px-6">{item[0]}</td>
