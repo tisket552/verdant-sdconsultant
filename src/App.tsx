@@ -62,8 +62,12 @@ function App() {
                   </tr>
                   <tr className="border-b">
                     <th className="py-4 px-6 bg-gray-50 text-left">住所</th>
-                    <td className="py-4 px-6">【本店】〒670-0992 兵庫県姫路市福沢町137-505</li>
-                    <td className="py-4 px-6">【東京支店】〒112-0015 東京都文京区目白台三丁目16番2号デュエロ目白台101号</li>
+                    <td className="py-4 px-6">
+                      <ul className="list-none">
+                        <li>【本店】〒670-0992 兵庫県姫路市福沢町137-505</li>
+                        <li>【東京支店】〒112-0015 東京都文京区目白台三丁目16番2号デュエロ目白台101号</li>
+                      </ul>
+                    </td>
                   </tr>
                   <tr className="border-b">
                     <th className="py-4 px-6 bg-gray-50 text-left">メールアドレス</th>
